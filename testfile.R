@@ -9,3 +9,4 @@ print("Änderung")
 
 pie(rep(1,19),col=rainbow(19),main='rainbow19')
 
+hh
