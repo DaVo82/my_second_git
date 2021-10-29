@@ -4,5 +4,8 @@ print("Hallo!")
 print("Änderung")
 
 
-# Etwas commentar hinzuegefuegt
-print("Danielas nächste Änderung")
+
+# Ein schickes Bild für dich
+
+pie(rep(1,19),col=rainbow(19),main='rainbow19')
+
