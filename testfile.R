@@ -8,7 +8,3 @@ print("Änderung")
 # Ein schickes Bild für dich
 
 pie(rep(1,19),col=rainbow(19),main='rainbow19')
-
-hh
-
-testtoken
